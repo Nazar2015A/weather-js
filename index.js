@@ -1,6 +1,3 @@
-// d982b206b7125a363d94918d08ebf560 - my API key
-// https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key} - погода в даний момент.
-// http://api.openweathermap.org/data/2.5/forecast?q=${city name}&appid={API key} - погода погодинно.
 let wrapper = document.querySelector(".wrapper");
 let cityDefault = "lviv";
 let city = "";
