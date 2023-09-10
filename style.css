@@ -9,13 +9,13 @@
 
 html,body{
   background: linear-gradient(135deg, #00feba, #5b548a);
-  height: 100%;
 }
 
 body{
   display: flex;
   justify-content: center;
   font-family: "Istok Web", sans-serif;
+  height: 100vh;
 }
 
 .wrapper{
