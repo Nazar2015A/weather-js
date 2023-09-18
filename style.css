@@ -15,7 +15,6 @@ body{
   display: flex;
   justify-content: center;
   font-family: "Istok Web", sans-serif;
-  height: 100vh;
 }
 
 .wrapper{
@@ -150,7 +149,6 @@ body{
   justify-content: center;
   gap: 30px;
   flex-wrap: wrap;
-  padding-bottom: 50px;
 }
 
 
